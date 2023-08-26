@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Agile Market</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_bottom_menu">BottomMenuActivity</string>
+    <string name="title_inicio">Início</string>
+    <string name="title_produto">Produtos</string>
+    <string name="title_listas">Listas</string>
+    <string name="title_perfil">Perfil</string>
+
+    <string name="msg_confirmacao_logout">Tem certeza que deseja sair da sua conta?</string>
+    <string name="msg_confirmacao_cadastro">Preencha os dados a seguir para confirmar seu cadastro:</string>
+    <string name="msg_deletar_produto">Deseja realmente deletar este product da base de dados?</string>
+    <string name="msg_deletar_categoria">Deseja realmente deletar esta category da base de dados?</string>
+    <string name="text_desc">Descrição</string>
+
+    <string name="content_img_lista">Imagem Lista</string>
+    <string name="content_text_lista">Sua Lista</string>
+
+</resources>

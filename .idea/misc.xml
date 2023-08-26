@@ -1,0 +1,119 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ball_colored.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/progress_bg.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/progress_bg_white.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_circle.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_button_around.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_button_border.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_button_secondary.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_center_dialog.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_main_button.xml" value="0.2145" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_formato_button_back.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_formato_recycler.xml" value="0.2535" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_cadastro_empresa.xml" value="0.33" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_login.xml" value="0.33055555555555555" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_add_categoria.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_cadastro_categoria.xml" value="0.32685185185185184" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_cadastro_produto.xml" value="0.32685185185185184" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_confirm_cadastro.xml" value="0.32685185185185184" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_confirm_delete_product.xml" value="0.32685185185185184" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_logout.xml" value="0.32685185185185184" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_options_lista_cotacao.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_categoria.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_categoria_inicio_fragment.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_choose_categoria.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_colaboradores.xml" value="0.33055555555555555" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_cotacao.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_geral.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_spinner_cor.xml" value="0.30440359127832406" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_spinner_icone.xml" value="0.33055555555555555" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_add_categoria.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_add_produto.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_area_admin.xml" value="0.33055555555555555" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_inicio.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_lista_cotacao.xml" value="0.3052586575459598" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_lista_geral.xml" value="0.33" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_listas.xml" value="0.5" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_perfil.xml" value="0.33" />
+        <entry key="..\:/Ramom/Documents/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/shape_circle.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_clear_24.xml" value="0.2955" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_description_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_key_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_playlist_add_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2985" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_baseline_view_list_24.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/ic_launcher_background.xml" value="0.287" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/progress_bg.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/progress_bg_white.xml" value="0.1985" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_bg.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_bottom_dialog.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_button_around.xml" value="0.2985" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_button_border.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_button_secondary.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_center_dialog.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_fields_around.xml" value="0.2525" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_format_text_view.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_formato_recycler.xml" value="0.2935" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/drawable/shape_shadow.xml" value="0.2165" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_add_categoria.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_add_produto.xml" value="0.33242753623188404" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_bottom_menu.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_cadastro_empresa.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_main.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_principal.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_add_categoria.xml" value="0.30440359127832406" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_cadastro_produto.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_confirm_cadastro.xml" value="0.375" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_confirm_delete_product.xml" value="0.30440359127832406" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_logout.xml" value="0.375" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/dialog_options_lista_cotacao.xml" value="0.30440359127832406" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_categoria.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_categoria_inicio_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_choose_categoria.xml" value="0.375" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_cotacao.xml" value="0.30427350427350425" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/formato_lista_geral.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_add_categoria.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_add_produto.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_config.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_inicio.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_lista_cotacao.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_lista_geral.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_listas.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_logout.xml" value="0.3052536231884058" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_logout2.xml" value="0.297554347826087" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_perfil.xml" value="0.3052586575459598" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/layout/fragment_produto.xml" value="0.33" />
+        <entry key="..\:/Users/Brenda/AndroidStudioProjects/AgileMarket/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

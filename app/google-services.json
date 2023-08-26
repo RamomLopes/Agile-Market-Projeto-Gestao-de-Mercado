@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145204181206",
+    "firebase_url": "https://agile-market-4f06e-default-rtdb.firebaseio.com",
+    "project_id": "agile-market-4f06e",
+    "storage_bucket": "agile-market-4f06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145204181206:android:87eef69aeaa863c2263177",
+        "android_client_info": {
+          "package_name": "com.example.agilemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145204181206-5tsjq34oserd26oulas9j55eoqg93veq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agilemarket",
+            "certificate_hash": "eb681e3627ba51c9d69c433f7d74e46c85e83128"
+          }
+        },
+        {
+          "client_id": "145204181206-4r3g50cb4fc0gn78dv8bgao1ivuv8efv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7yzHnHb11rnMIoOvsYYTbJl0Slv4cgFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145204181206-4r3g50cb4fc0gn78dv8bgao1ivuv8efv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
